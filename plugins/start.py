@@ -129,7 +129,7 @@ async def not_joined(client: Client, message: Message):
             ],
             [
                 InlineKeyboardButton(text="ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ 3", url = " https://t.me/Aniverse_Central" ),
-                InlineKeyboardButton(text="ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ 4", url=client.invitelink4),
+                InlineKeyboardButton(text="ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ 4", url = " https://t.me/+XnkIVo2UYxg2ZWZl" ),
             ],
     ]
     try:
